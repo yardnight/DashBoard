@@ -2,5 +2,6 @@
   "name": "Інтерактивна інформаційна панель",
   "description": "Сучасна інтерактивна панель для аналізу та візуалізації смакових профілів віскі з інтерактивними графіками.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"],
+  "serviceName": "DashBoard v2.4"
 }
